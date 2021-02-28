@@ -1,0 +1,50 @@
+.userdetails{
+
+    
+   margin: 0;
+   color: aliceblue;
+   /* box-shadow: 0px 0 10px rgba(255, 255, 255, 0.8); */
+
+   
+    
+}
+
+.heading{
+    margin-left: 30vh;
+}
+
+/* .userdetails h1{
+    padding-left: 10vw;
+    font-size: 2.6vw;
+    color: white;
+} */
+
+.userinfo{
+    margin-right: 10vw;
+   background-color: rgba(4, 92, 92, 0.712);
+    border: 3px solid rgb(209, 0, 0);
+    height: 50vh;
+    width: 35vw;
+    margin-top: 10vh;
+    margin-left: 30vh;
+    margin-top: 0;
+    
+    box-shadow: 5px 1vw 2vw rgb(80, 123, 158);
+    border-radius: 20px;
+    
+   
+
+}
+
+.userinfo h2{
+    height : 2.4vh;
+    font-size: 1.5vw;
+    margin-left: 0;
+}
+
+.title{
+    height: 2vw !important;
+}
+
+    
+/*  */

@@ -1,0 +1,11 @@
+.user{
+
+    color: white;
+    margin-top: 6vh;
+    margin-left: 12vw;
+    background-color: rgba(165, 42, 42, 0.329);
+    max-width: 30vw;
+    padding: 3vw;
+    border-radius: 20px;
+    box-shadow: 5px 1vw 1vw rgb(80, 123, 158);
+}
